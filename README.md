@@ -14,11 +14,11 @@ Detection Process using feature matching:
 4. Homography calculation between matches across video frame and marker image
   - Number of inliers calculated 
     - If inliers above a certain number then detection successful
-    - Pass of feature locations to the tracking system
+    - Pass off feature locations to the tracking system
 
 Tracking:
 
 Use the KLT Tracker
 
 
-At this point, you should use your own video and marker image. I'm not releasing the video / marker image I have but feel free to use your own.
+At this point, you should use your own video and marker image. I'm not releasing the video / marker image I have but feel free to use your own. Replace paths for the video file and marker image as needed within the first 22 lines of the code.

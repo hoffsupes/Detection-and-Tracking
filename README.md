@@ -19,3 +19,6 @@ Detection Process using feature matching:
 Tracking:
 
 Use the KLT Tracker
+
+
+At this point, you should use your own video and marker image. I'm not releasing the video / marker image I have but feel free to use your own.
